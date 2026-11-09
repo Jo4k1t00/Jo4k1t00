@@ -1,6 +1,6 @@
 # Hola soy Joaquin Guajardo 
 
-<img width="549" height="800" alt="Imagen de WhatsApp 2024-06-22 a las 14 30 12_73fc8cdd (1)" src="https://github.com/user-attachments/assets/dd14b280-4249-425c-b872-049371d27e8f" />
+<img width="275" height="400" alt="Imagen de WhatsApp 2024-06-22 a las 14 30 12_73fc8cdd (1)" src="https://github.com/user-attachments/assets/dd14b280-4249-425c-b872-049371d27e8f" />
 
 
 Estudiante de Ingeniería en Realidad Virtual y Diseño de Juegos Digitales (UBO). Desarrollo experiencias en Unity y C#.
